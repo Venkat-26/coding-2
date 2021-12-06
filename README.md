@@ -9,3 +9,9 @@ s.no|Name|Mobile.no|Email Id
 -----|----|---------|-------
 1|Sai|985697869778|fhgfg@jkdghg.cocm
 2|Venkat|4785685687|vdfvgvnbgjmjhfg@dgjghj.cjkhgui
+
+:+1: 🧮
+
+[^]: This is a footnote
+
+~~Hello Guys~~
